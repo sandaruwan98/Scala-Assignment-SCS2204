@@ -1,2 +1,5 @@
 /.metals
 *.class
+/project
+/target
+*.conf
